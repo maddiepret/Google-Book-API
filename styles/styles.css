@@ -1,0 +1,23 @@
+body {
+    background-image: url("/assets/background-img.jpg");
+    background-color: #c6fbfc;
+    height: 120%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 10%;
+}
+
+h1,
+h2 {
+    font-family: monospace;
+}
+
+#header {
+    font-size: 3rem;
+}
+
+.book-list {
+    margin-top: 30px;
+    visibility: hidden;
+}
